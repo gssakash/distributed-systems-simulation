@@ -1,0 +1,5 @@
+node_*.sqlite
+.env/
+.venv/
+env/
+venv/
