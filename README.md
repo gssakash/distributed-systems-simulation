@@ -27,5 +27,5 @@ pip install streamlit
 Save the provided code as **bft_simulation.py** and run the application from your terminal:
 
 ```
-streamlit run bft_simulation.py
+streamlit run app.py
 ```
