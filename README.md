@@ -12,7 +12,7 @@ The entire application runs as a single Python process, simulating inter-node co
 
 ---
 
-## 🧩 Prerequisites
+## Prerequisites
 
 You only need Streamlit installed:
 
@@ -22,7 +22,7 @@ pip install streamlit
 
 ---
 
-## ⚙️ Execution
+## Execution
 
 Save the provided code as **bft_simulation.py** and run the application from your terminal:
 
